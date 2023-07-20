@@ -1,0 +1,31 @@
+﻿Build started 20.08.2020 14:42:55.
+     1>Project "C:\Users\Menes\Documents\Visual Studio 2012\Projects\300HW4\300HW4\300HW4.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt AVLSearchTree.cpp HashTable.cpp mehmetenes_battal_mehmetenes_hw4.cpp
+         mehmetenes_battal_mehmetenes_hw4.cpp
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(149): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(382): warning C4244: 'return' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(405): warning C4244: 'return' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(429): warning C4244: 'return' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(471): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(504): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(536): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(670): warning C4244: 'initializing' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(743): warning C4244: 'initializing' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(749): warning C4244: 'initializing' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(755): warning C4244: 'initializing' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(761): warning C4244: 'initializing' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>c:\users\menes\documents\visual studio 2012\projects\300hw4\300hw4\mehmetenes_battal_mehmetenes_hw4.cpp(767): warning C4244: 'initializing' : conversion from '__int64' to 'unsigned int', possible loss of data
+         HashTable.cpp
+         AVLSearchTree.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Menes\Documents\Visual Studio 2012\Projects\300HW4\Debug\300HW4.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Menes\Documents\Visual Studio 2012\Projects\300HW4\Debug\300HW4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Menes\Documents\Visual Studio 2012\Projects\300HW4\Debug\300HW4.lib" /MACHINE:X86 Debug\AVLSearchTree.obj
+         Debug\HashTable.obj
+         Debug\mehmetenes_battal_mehmetenes_hw4.obj
+         300HW4.vcxproj -> C:\Users\Menes\Documents\Visual Studio 2012\Projects\300HW4\Debug\300HW4.exe
+     1>Done Building Project "C:\Users\Menes\Documents\Visual Studio 2012\Projects\300HW4\300HW4\300HW4.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.41
